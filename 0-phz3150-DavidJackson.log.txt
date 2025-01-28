@@ -128,9 +128,11 @@ I have been working on this homework for about an hour and I am a little over ha
 I am now working on uploading the homework to Github so that I can have a saving point.
 This homework is covereing creating functions and passing in arguments as well as creating functions in seperate files and importing those functions into our working space.
 
+It is now 3PM I have uploaded all code to the github, I have finished all the requested hw assignments of me in the webcourses and I am now closing my log.
+Everything can be seen on my student github connected to my student email.
+All changes done can be seen in the folder PHZ-3150 - HW_3
 
-
-
+*****OUT: Mon Jan 28 2:58 PM EST 2025
 
 
 
